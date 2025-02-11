@@ -1,5 +1,5 @@
-print('no!호캐슬')
-print("대근 왔다감")
+print('hosung')
+print("min_mod_0211")
 print('noh')
 print("노호캐슬")
 print("minjung")
