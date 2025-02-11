@@ -1,5 +1,5 @@
-print("초기파일")
-print("min_mod_0211")
+print("어떡하지")
+print("대근 왔다감")
 print("수정됨")
 print("ver_1")
 print("minjung")

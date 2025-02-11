@@ -1,4 +1,4 @@
-print("11일 수정,수관")
+print("반갑습니다.")
 print("대근 왔다감")
 print("안녕하세요")
 print("min_mod_0211")
