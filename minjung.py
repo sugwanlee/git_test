@@ -1,4 +1,4 @@
 print("minjung's file")
-print("대근 왔다감")
+print("min_mod_0211")
 print("minjung")
 print("김맛있졍")
